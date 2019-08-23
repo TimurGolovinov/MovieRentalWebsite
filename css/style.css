@@ -1,0 +1,48 @@
+body{
+    background-color: #666666;
+    color: #f3f2ff;
+}
+h1, h2{
+    margin-bottom:2em;
+    color: #28a745;
+}
+
+a:hover{
+    color: #28a745 !important;
+    text-shadow: 0 0 2px #FFF, 0 0 5px #FFF,
+    0 0 5px #FFF, 0 0 10px #4aff1817, 0 0 15px rgba(74, 255, 24, 0.233),
+    0 0 10px rgba(74, 255, 24, 0.13), 0 0 10px rgba(74, 255, 24, 0.096), 0 0 15px #4aff1818;
+    transition: 250ms all ease-in-out;
+}
+
+.container-fluid{
+    padding: 0 !important;
+    margin: 0;
+}
+
+.first-block{
+    margin-top: 10em;
+}
+
+.second-block{
+    margin-top: 3.5em;
+}
+
+.movie-covers{
+    margin-bottom: 1em;
+}
+
+.handcraftedBy{
+    color: #28a745 !important;
+    font-size: 1.5em;
+}
+
+.handcraftedBy:hover{
+    color: black !important;
+    transition: 1s all ease-in-out;
+}
+
+.input-group{
+    margin-bottom: 20% !important;
+}
+
